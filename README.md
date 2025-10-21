@@ -5,3 +5,5 @@ this project visualizes the instersection of socioeconomic status (ses), air par
 although the circles are representative of real u.s. counties, their location on the map has been randomized to emphaisze the relationships and disparities between the variables rather than precise geographic patterns. this project is meant to highlight the connection between socioeconomic inequality, environmental hazards, and significant health impacts.
 
 the datasets i used for this project are from the US EPA and can be found within the project files. I cleaned and merged multiple datasets into the file labeled 'SES_PM25_CMR_2010.csv'.
+
+view the result at: [https://aalikhan-13.github.io/breathing-map/](url)
