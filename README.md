@@ -6,4 +6,4 @@ although the circles are representative of real u.s. counties, their location on
 
 the datasets i used for this project are from the US EPA and can be found within the project files. I cleaned and merged multiple datasets into the file labeled 'SES_PM25_CMR_2010.csv'.
 
-view the result at: [https://aalikhan-13.github.io/breathing-map/](url)
+view the result at: https://aalikhan-13.github.io/breathing-map/
